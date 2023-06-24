@@ -1,0 +1,1 @@
+this is a keylogger program, use this in a ide like pycharm or vs code to work, it doesnt work on idle or other platforms without a proper terminal for some reason.
